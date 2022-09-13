@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @temka1007
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning JS, HTML, CSS.
-- 💞️ I’m looking to collaborate on building account app and website.
+- 💞️ I’m looking to collaborate on building accounting app and website.
 - 📫 How to reach me contact my mail "munhtemuulen.kh2002@gmail.com"
 
 <!---
